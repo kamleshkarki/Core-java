@@ -1,0 +1,23 @@
+/*using net beans 8.2*/
+package basic.java;
+
+/**
+ *
+ * @author RamaKarishna
+ */
+public class BasicJava {
+    public void display()
+    {
+        System.out.println("welcome java");
+    }
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        BasicJava q1 = new BasicJava();
+        q1.display();
+    }
+    
+}
