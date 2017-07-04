@@ -1,0 +1,17 @@
+In java is a special type of method that is used to initialize the object.
+Java constructor is invoked at the time of object creation. 
+It constructs the values
+i.e. provides data for the object that is why it is known as constructor.
+
+There are basically two rules defined for the constructor.
+  Constructor name must be same as its class name
+  Constructor must have no explicit return type
+  
+Types of java constructors
+two types of constructors:
+  Default constructor (no-arg constructor)---> A constructor that have no parameter is known as default constructor.
+  Default constructor provides the default values to the object like 0, null etc.
+  
+  
+  Parameterized constructor
+  
